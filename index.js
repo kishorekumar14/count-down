@@ -6,7 +6,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
-const opendate = '12 Aug 2022';
+const opendate = '30 Aug 2024';
 
 function countdown() {
     const currentDate = new Date();
